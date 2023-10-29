@@ -1,4 +1,4 @@
-package com.alex.abstractFactory;
+package com.alex.abstractFactory.abstractProducts;
 
 public abstract class Mouse {
      public abstract void mover();

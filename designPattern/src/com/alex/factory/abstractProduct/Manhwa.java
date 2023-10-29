@@ -1,4 +1,4 @@
-package com.alex.factory;
+package com.alex.factory.abstractProduct;
 
 public class Manhwa extends Manga{
 

@@ -1,4 +1,4 @@
-package com.alex.abstractFactory;
+package com.alex.abstractFactory.abstractProducts;
 
 public class MouseG403 extends Mouse{
     @Override

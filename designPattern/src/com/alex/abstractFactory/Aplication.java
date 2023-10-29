@@ -1,8 +1,12 @@
 package com.alex.abstractFactory;
 
+import com.alex.abstractFactory.abstractProducts.Mouse;
+import com.alex.abstractFactory.abstractProducts.Sensor;
+import com.alex.abstractFactory.genericFactory.FabricaMouseRazer;
+
 public class Aplication {
     public static void main(String[] args) {
-        FabricaMouse fabrica = new FabricaMouseRazer();
+        FabricaMouseRazer fabrica = new FabricaMouseRazer();
         Mouse g403 = fabrica.fabricaMouse();
         Sensor sodiad = fabrica.fabricaSensor();
 
