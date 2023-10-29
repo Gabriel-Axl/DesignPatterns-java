@@ -1,4 +1,4 @@
-package com.alex.builder.concretBuilder.product;
+package com.alex.builder.product;
 
 public class CelularXiaomi implements Celular{
     private String tela;

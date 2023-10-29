@@ -1,8 +1,8 @@
-package com.alex.builder.concretBuilder.concretBuilder;
+package com.alex.builder.concretBuilder;
 
-import com.alex.builder.concretBuilder.builder.BuilderCelular;
-import com.alex.builder.concretBuilder.product.Celular;
-import com.alex.builder.concretBuilder.product.CelularApple;
+import com.alex.builder.abstractBuilder.BuilderCelular;
+import com.alex.builder.product.Celular;
+import com.alex.builder.product.CelularApple;
 
 public class AppleBuilderCelular implements BuilderCelular {
     private String tela;

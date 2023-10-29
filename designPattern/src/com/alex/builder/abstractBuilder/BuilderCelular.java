@@ -1,7 +1,6 @@
-package com.alex.builder.concretBuilder.builder;
+package com.alex.builder.abstractBuilder;
 
-import com.alex.builder.concretBuilder.product.Celular;
-import com.alex.builder.concretBuilder.product.CelularXiaomi;
+import com.alex.builder.product.Celular;
 
 public interface BuilderCelular {
 

@@ -1,7 +1,7 @@
-package com.alex.builder.concretBuilder.director;
+package com.alex.builder.director;
 
-import com.alex.builder.concretBuilder.builder.BuilderCelular;
-import com.alex.builder.concretBuilder.product.Celular;
+import com.alex.builder.abstractBuilder.BuilderCelular;
+import com.alex.builder.product.Celular;
 
 public class DirectorCelular {
     private BuilderCelular contrutor;
