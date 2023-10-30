@@ -12,6 +12,7 @@ Este repositório tem como objetivo o estudo e implementação dos Padrões de P
 - Singleton/multiton
 - Builder
 - Prototype
+- Object Pool
 
 ### 2. Padrões Estruturais
 
