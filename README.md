@@ -9,7 +9,7 @@ Este repositório tem como objetivo o estudo e implementação dos Padrões de P
 
 - Factory Method
 - Abstract Factory
-- Singleton
+- Singleton/multiton
 - Builder
 - Prototype
 
