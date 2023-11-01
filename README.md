@@ -27,7 +27,7 @@ Este repositório tem como objetivo o estudo e implementação dos Padrões de P
 ### 3. Padrões Comportamentais
 
 - Chain of Responsibility
-- Command
+- [Command](./designPattern/src/com/alex/comportamentais/command/)
 - Interpreter
 - Iterator
 - Mediator
