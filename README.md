@@ -29,7 +29,7 @@ Este repositório tem como objetivo o estudo e implementação dos Padrões de P
 - Chain of Responsibility
 - [Command](./designPattern/src/com/alex/comportamentais/command/)
 - Interpreter
-- Iterator
+- [Iterator](./designPattern/src/com/alex/comportamentais/iterator/)
 - Mediator
 - Memento
 - Observer
