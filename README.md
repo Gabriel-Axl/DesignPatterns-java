@@ -16,13 +16,13 @@ Este repositório tem como objetivo o estudo e implementação dos Padrões de P
 
 ### 2. Padrões Estruturais
 
-- Adapter
-- Bridge
-- Composite
-- Decorator
-- Facade
-- Flyweight
-- Proxy
+- [Adapter](./designPattern/src/com/alex/estruturais/adapter/)
+- [Bridge](./designPattern/src/com/alex/estruturais/bridge/)
+- [Composite](./designPattern/src/com/alex/estruturais/composite/)
+- [Decorator](./designPattern/src/com/alex/estruturais/decorator/)
+- [Facade](./designPattern/src/com/alex/estruturais/facade/)
+- [Flyweight](./designPattern/src/com/alex/estruturais/flyweight/)
+- [Proxy](./designPattern/src/com/alex/estruturais/proxy/)
 
 ### 3. Padrões Comportamentais
 
@@ -34,7 +34,7 @@ Este repositório tem como objetivo o estudo e implementação dos Padrões de P
 - Memento
 - Observer
 - State
-- Strategy
+- [Strategy](./designPattern/src/com/alex/comportamentais/strategy/)
 - Template Method
 - Visitor
 
