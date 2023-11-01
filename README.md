@@ -35,6 +35,6 @@ Este repositório tem como objetivo o estudo e implementação dos Padrões de P
 - Observer
 - State
 - [Strategy](./designPattern/src/com/alex/comportamentais/strategy/)
-- Template Method
+- [Template Method](./designPattern/src/com/alex/comportamentais/templateMethod/)
 - Visitor
 
