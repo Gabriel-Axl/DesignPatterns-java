@@ -33,7 +33,7 @@ Este repositório tem como objetivo o estudo e implementação dos Padrões de P
 - [Mediator](./designPattern/src/com/alex/comportamentais/mediator/)
 - Memento
 - Observer
-- State
+- [State](./designPattern/src/com/alex/comportamentais/state/)
 - [Strategy](./designPattern/src/com/alex/comportamentais/strategy/)
 - [Template Method](./designPattern/src/com/alex/comportamentais/templateMethod/)
 - Visitor
