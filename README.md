@@ -37,3 +37,7 @@ Este repositório tem como objetivo o estudo e implementação dos Padrões de P
 - [Template Method](./designPattern/src/com/alex/comportamentais/templateMethod/)
 - Visitor
 
+## 4. Links com conteúdo sobre os padrões
+
+- [Refactoring Guru](https://refactoring.guru/)  
+- [Playlist Otávio Miranda](https://www.youtube.com/watch?v=MqddY6Ochkc&list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H)
