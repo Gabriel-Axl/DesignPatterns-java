@@ -35,7 +35,7 @@ Este repositório tem como objetivo o estudo e implementação dos Padrões de P
 - [State](./designPattern/src/com/alex/comportamentais/state/)
 - [Strategy](./designPattern/src/com/alex/comportamentais/strategy/)
 - [Template Method](./designPattern/src/com/alex/comportamentais/templateMethod/)
-- Visitor
+- [Visitor](./designPattern/src/com/alex/comportamentais/visitor/)
 
 ## 4. Links com conteúdo sobre os padrões
 
