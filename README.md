@@ -31,7 +31,7 @@ Este repositório tem como objetivo o estudo e implementação dos Padrões de P
 - [Iterator](./designPattern/src/com/alex/comportamentais/iterator/)
 - [Mediator](./designPattern/src/com/alex/comportamentais/mediator/)
 - [Memento](./designPattern/src/com/alex/comportamentais/memento/)
-- Observer
+- [Observer](./designPattern/src/com/alex/comportamentais/observer/)
 - [State](./designPattern/src/com/alex/comportamentais/state/)
 - [Strategy](./designPattern/src/com/alex/comportamentais/strategy/)
 - [Template Method](./designPattern/src/com/alex/comportamentais/templateMethod/)
